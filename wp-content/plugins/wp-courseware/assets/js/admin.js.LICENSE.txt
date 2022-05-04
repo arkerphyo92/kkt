@@ -1,0 +1,61 @@
+/*!
+     * jQuery Mousewheel 3.1.13
+     *
+     * Copyright jQuery Foundation and other contributors
+     * Released under the MIT license
+     * http://jquery.org/license
+     */
+
+/*!
+ * Select2 4.0.5
+ * https://wpcwselect2.github.io
+ *
+ * Released under the MIT license
+ * https://github.com/wpcwselect2/wpcwselect2/blob/master/LICENSE.md
+ */
+
+/*!
+ * Vue.js v2.6.14
+ * (c) 2014-2021 Evan You
+ * Released under the MIT License.
+ */
+
+/*!
+ * accounting.js v0.4.2
+ * Copyright 2014 Open Exchange Rates
+ *
+ * Freely distributable under the MIT license.
+ * Portions of accounting.js are inspired or borrowed from underscore.js
+ *
+ * Full details and documentation:
+ * http://openexchangerates.github.io/accounting.js/
+ */
+
+/*!
+ * jQuery blockUI plugin
+ * Version 2.70.0-2014.11.23
+ * Requires jQuery v1.7 or later
+ *
+ * Examples at: http://malsup.com/jquery/block/
+ * Copyright (c) 2007-2013 M. Alsup
+ * Dual licensed under the MIT and GPL licenses:
+ * http://www.opensource.org/licenses/mit-license.php
+ * http://www.gnu.org/licenses/gpl.html
+ *
+ * Thanks to Amir-Hossein Sobhi for some excellent contributions!
+ */
+
+/*!
+ * vuex v3.6.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+/*! jQuery Timepicker Addon - v1.5.5 - 2015-05-24
+* http://trentrichardson.com/examples/timepicker
+* Copyright (c) 2015 Trent Richardson; Licensed MIT */
+
+/**
+         * @license almond 0.3.3 Copyright jQuery Foundation and other contributors.
+         * Released under MIT license, http://github.com/requirejs/almond/LICENSE
+         */

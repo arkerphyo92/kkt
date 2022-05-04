@@ -1,0 +1,14 @@
+/*! Abstract base class for collection plugins v1.0.2.
+	Written by Keith Wood (wood.keith{at}optusnet.com.au) December 2013.
+	Licensed under the MIT license (http://keith-wood.name/licence.html). */
+
+/*! Simple JavaScript Inheritance
+ * By John Resig http://ejohn.org/
+ * MIT Licensed.
+ */
+
+/*! http://keith-wood.name/countdown.html
+	Countdown for jQuery v2.1.0.
+	Written by Keith Wood (wood.keith{at}optusnet.com.au) January 2008.
+	Available under the MIT (http://keith-wood.name/licence.html) license.
+	Please attribute the author if you use it. */
